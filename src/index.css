@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.counter {
+  text-align: center;
+  font-size: 1.2rem;
+  margin: 1%;
+}
+
+.text {
+  margin: 1%;
+}
+
+.counter input{
+  width: 7.5rem;
+  height: 1.5rem;
+  text-align: center;
+  font-size: large;
+}
+
+.counter button{
+  width: 1.8rem;
+  height: 1.9rem;
+}
+
+.reset button{
+  width: 5rem;
+  margin-top: 1.1rem;
+}
